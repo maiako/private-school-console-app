@@ -3,6 +3,7 @@ package privateschool;
 public class Assignment {
 
     private String title;
+    private String book;
     private String description;
     private String subDateTime;
     private double oralMark;

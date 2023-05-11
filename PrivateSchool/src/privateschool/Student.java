@@ -5,6 +5,7 @@ package privateschool;
 public class Student {
 
     private String firstName;
+    private String address;
     private String lastName;
     private String dateOfBirth;
     private int tuitionFees;
