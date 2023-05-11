@@ -1,6 +1,7 @@
 # private-school-console-app
- t
+
 Console application for managing data related to students, trainers, assignments, and courses
+
 •	Allows users to input data and provides option to add more than one entry at a time
 •	Synthetic data is used if user decides not to type any data
 •	Provides various lists including:
